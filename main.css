@@ -1,0 +1,47 @@
+h1 {
+  font-family: Courier New;
+  color: purple;
+}
+
+h2 {
+  font-family: Times New Roman;
+  color: blue;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+#form {
+  font-family: Helvetica;
+}
+
+#ul {
+  background-color:yellow;
+  padding: 30px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+}
+
+.fieldset {
+  color:purple;
+}
+
+.helvetica {
+  font-family: Helvetica;
+}
+
+#helvetica {
+  font-family: Helvetica;
+}
+
+.nav {
+  display:grid;
+  grid-template-columns: auto auto auto auto;
+  text-align: center;
+  font-family: Helvetica;
+}
